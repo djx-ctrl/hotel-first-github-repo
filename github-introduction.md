@@ -6,7 +6,6 @@
 - remote
 - local
 - branch
-- branch
 - clone
 - repo (repsitory)
 - GUI
